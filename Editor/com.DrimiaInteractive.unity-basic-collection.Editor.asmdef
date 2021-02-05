@@ -1,0 +1,17 @@
+{
+    "name": "com.DrimiaInteractive.unity-basic-collection.Editor",
+    "references": [
+        "GUID:6db11bb27bbf8ee42b21e472a7da2053"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

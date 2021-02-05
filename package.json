@@ -1,0 +1,15 @@
+{
+    "name": "com.drimiainteractive.unity-basic-collection",
+    "displayName": "Unity Basic Collection",
+    "version": "0.0.1",
+    "unity": "2019.2",
+    "description": "A collection of unity scripts that almost every project needs",
+    "keywords": ["unity", "basic", "collection"],
+    "dependencies": {
+    },
+    "author": {
+		"name": "Omer Zadok",
+		"email": "ozadok@gmail.com",
+		"url": "https://github.com/OZadok"
+	}
+}
